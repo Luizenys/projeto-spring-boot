@@ -2,7 +2,6 @@ package com.devluiza.dslist.dto;
 
 import org.springframework.beans.BeanUtils;
 
-
 import com.devluiza.dslist.entities.Game;
 
 
