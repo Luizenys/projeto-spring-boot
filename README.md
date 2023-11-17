@@ -1,3 +1,6 @@
+# Resumo do Projeto
+Este projeto foi desenvolvido usando a tecnologia Java Spring para criar o back-end de uma aplicação que possui várias listas rankeadas de jogos (como por exemplo uma lista de jogos de plataforma ou de esportes), sendo assim um jogo pode aparecer em mais de uma lista e uma lista possui vários jogos. 
+Foram preparados também 3 ambientes: o primeiro sendo o de teste usando o banco h2, o segundo sendo o de homologação usando a imagem do postgres no docker e o terceiro sendo o de produção onde foi utilizado o Railway para colocar o projeto na nuvem de forma gratuita.
 
 # Modelo de Domínio 
 
